@@ -7,7 +7,8 @@
 The "Ireland's Road to Vision Zero" project analyzes and visualizes road fatalities data in Ireland from 2001 to 2020. The aim is to provide insights into road safety trends and to support efforts towards achieving Vision Zero, a strategy to eliminate all traffic fatalities and severe injuries.
 
 
-The project includes the following files:
+### Datasets
+
 
 - `data/by_county.csv`: Road fatalities data by county.
 - `data/month_by_month_fatalities.csv`: Monthly fatalities data.
